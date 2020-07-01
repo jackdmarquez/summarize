@@ -52,4 +52,4 @@ optional arguments:
 $ summarize -N 5
 48.8
 ```
-
+The output is random and may vary
