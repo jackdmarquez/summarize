@@ -35,6 +35,7 @@ $ tox
 $ pip install .
 $ pytest
 
+```
 ## Usage
 
 ```
@@ -51,3 +52,4 @@ optional arguments:
 $ summarize -N 5
 48.8
 ```
+
