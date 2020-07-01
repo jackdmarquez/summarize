@@ -10,13 +10,13 @@ Summarize runs on Python >= 3.6 and requires Numpy.
 Install with pip from master
 
 ```
-$ pip install --user git+https://github.com/zyndagj/summarize.git
+$ pip install --user git+https://github.com/jackdmarquez/summarize.git
 ```
 
 or a specific release
 
 ```
-$ pip install --user git+https://github.com/zyndagj/summarize.git@release
+$ pip install --user git+https://github.com/jackdmarquez/summarize.git@release
 ```
 
 ## Testing
@@ -24,7 +24,7 @@ $ pip install --user git+https://github.com/zyndagj/summarize.git@release
 Install test dependencies and run tests
 
 ```
-$ git clone https://github.com/zyndagj/summarize.git
+$ git clone https://github.com/jackdmarquez/summarize.git
 $ cd summarize
 $ pip install --user .[dev]
 
